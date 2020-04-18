@@ -1,0 +1,442 @@
+﻿
+
+/* Start:/bitrix/templates/stroykas_main/components/bitrix/menu/top_mobile/style.css?15635645111662*/
+
+/*.top_menu_mobile {background: rgba(0,0,0, .1) !important; margin: 0; padding: 10px 0;}*/
+
+.top_menu_mobile a{ color: white; border-top: 1px red !important;}
+.top_menu_mobile li{ color: white;  padding: 5px 10px; text-align: left;}
+
+.top_menu_mobile ul { margin:0; margin: 20px 0 !important; }
+
+.menu_mobile .navbar-toggle {float: none !important;}
+
+.menu_mobile .navbar-header button { color: white; text-transform: uppercase;}
+
+.menu_mobile .dropdown.active a.dropdown-toggle, li.active a.root-item-selected { color: rgba(0,0,0, .7); text-decoration: none; }
+
+
+.menu_mobile .navbar-header { background: none !important; border: none; }
+.menu_mobile .navbar-nav { text-transform: uppercase; font-size: 13px; text-align: left;}
+.menu_mobile .nav>li { padding: 0 10px; }
+
+.menu_mobile .dropdown-menu a { bottom-top: 1px rgba(255,255,255, .1) !important; font-size: 14px; }
+
+ 
+.menu_mobile .dropdown-menu { background: rgba(0,0,0, 0.1) !important; }
+.menu_mobile .dropdown-menu li{ padding: 0; }
+
+ .navbar-header button { display: inline-block; float: right; margin: 0; padding: 15px 10px;  }
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #ffffff !important;
+   background-color: rgba(0,0,0, .2) !important;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+     border-color: rgba(0,0,0, .2) !important; 
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: rgba(0,0,0, .2) !important;
+}
+
+.menu_mobile #catalog { background: rgba(0,0,0, .2) !important; }
+
+/* End */
+
+
+/* Start:/bitrix/templates/stroykas_main/components/bitrix/menu/top_multi/style.css?15635645113330*/
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+  top: 0 !important;
+  right: -300px;
+  width: 300px;
+  margin-top: -90px;
+  box-shadow: 0 0 20px rgba(0,0,0, .4);
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown-submenu>a:after {
+  font-family:'FontAwesome';
+  display: block;
+  content:"\f105";
+  float: right;
+  width: 0;
+  height: 0;
+  margin-right: -20px;
+  margin-top: -2px;
+}
+
+.dropdown-submenu:hover>a:after {
+  border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+  float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  -webkit-border-radius: 6px 0 6px 6px;
+  -moz-border-radius: 6px 0 6px 6px;
+  border-radius: 6px 0 6px 6px;
+}
+
+/*  Главное меню  */
+
+.main_menu_gorizontal {
+    text-transform: uppercase;
+    font-size: 12px;
+    white-space: nowrap;
+    font-family: 'light';
+    height: 90px;
+} 
+
+
+.main_menu_gorizontal li>a{
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  color:  black;
+
+}
+
+.main_menu_gorizontal .nav-pills>li {
+    height: 88px;
+    line-height: 88px;
+
+}
+
+
+/*.main_menu_gorizontal .nav-pills>li:last-child {border-right: rgba(255,255,255, .3) dotted 1px;}*/
+
+
+.main_menu_gorizontal .nav-pills>li a:hover, .main_menu_gorizontal .nav-pills>li a:active, .main_menu_gorizontal .nav-pills>li a:focus { background:none !important;}
+.main_menu_gorizontal .nav-pills>li:hover, .main_menu_gorizontal .nav-pills>li:focus, .main_menu_gorizontal .nav-pills>li:active { background: rgba(0,0,0, .1);}
+
+.main_menu_gorizontal .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+    background: none !important;
+    border: none !important;
+}
+.main_menu_gorizontal .nav-pills>li.active>a, .main_menu_gorizontal .nav-pills>li.active>a:hover, .main_menu_gorizontal .nav-pills>li.active>a:focus,
+.main_menu_gorizontal .nav-pills>li>a.root-item-selected {
+    color: rgba(0,0,0, .4) !important;
+    background: none !important;
+}
+
+.dropdown-menu { z-index: 10000 !important; box-shadow: 0 0 20px rgba(0,0,0, .1) !important; }
+
+.nav-pills .dropdown-menu {
+    top: 88px !important; 
+}
+
+
+.main_menu_gorizontal .zayavka{
+  text-align: right;
+  display: table-cell;
+  vertical-align: middle;
+  height: 60px;
+  width: 200px !important;
+}
+
+.main_menu_gorizontal .zayavka>a>span{
+border-bottom: 1px dotted #1c94c4;
+}
+
+    /* Субменю  */
+
+    .dropdown-menu li a{
+      color: black;
+    }
+      .dropdown-menu li{
+      color: black;
+      padding: 10px 20px;
+      border-top: #ddd 1px solid;
+    }
+    .dropdown-menu li:hover, .dropdown-menu li a:hover{ background: #ddd; color: black !important; }
+
+      .dropdown-menu li.item-selected>a{
+      color: rgba(0,0,0, .4) !important;
+    }
+
+    .dropdown-menu li:first-child{ border: none; }
+    .dropdown-menu {
+        left: 0;
+        border: none !important;
+        font-size: 14px;
+        text-transform: none;
+        border: 1px #ddd solid;
+       }    
+
+    /* .Субменю */
+a.root-item:hover, a.root-item:focus, a.root-item:active { background: none !important; } 
+
+.dropdown-menu>li>a:hover { background: none !important; }
+
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus {
+    color: #939393 !important;
+    background: none !important;
+}
+
+/*  .Главное меню */
+
+/* End */
+
+
+/* Start:/bitrix/templates/stroykas_main/components/bitrix/system.pagenavigation/.default/style.css?15635645111171*/
+div.modern-page-navigation { 
+	padding: 22px 0;
+	font-size: 12px;
+}
+
+div.modern-page-navigation a, 
+span.modern-page-current, 
+span.modern-page-dots
+{
+	border-left-width: 1px;
+	/*border-left-style: solid;*/
+	text-decoration: none;
+	padding: 5px 8px;
+	color: #5B5B5B;
+}
+div.modern-page-navigation a.modern-page-previous { 
+	border-right-width: 1px; 
+	/*border-right-style: solid; */
+	border-left: none; }
+div.modern-page-navigation a.modern-page-first, 
+div.modern-page-navigation span.modern-page-first { 
+	border-left: none; 
+	padding-left: 0.5em; }
+
+span.modern-page-current { 
+	/*font-weight: bold;*/
+    background: #BEBEBE;
+    border-color: #BEBEBE;
+    padding: 3px 8px;
+    border-radius: 3px;
+    color: white;
+
+}
+
+.pagination {
+
+    margin-top: 15px !important;
+    margin-right: 5px !important;
+
+}
+
+.pagination>li>a {
+color: black !important;
+color: #5B5B5B !important;
+}
+
+
+.pagination>li.active>a {
+color: #9B9B9B !important;
+}
+
+
+.pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
+    z-index: 3;
+    background: none !important;
+    border-color: transparent;
+}
+
+/*i.fa {font-size: 14px; margin-top; 3px}*/
+/* End */
+
+
+/* Start:/bitrix/templates/stroykas_main/components/bitrix/news.list/slider/style.css?1563564511600*/
+.carousel-indicators li {
+    display: inline-block;
+    width: 15px !important;
+    height: 15px !important;
+    border: 3px solid #c0c0c0 !important;
+    margin: 0 !important;
+    text-indent: -999px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #000 \9;
+    background-color: rgba(0,0,0,0);
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.carousel-indicators .active {
+    margin: 0;
+    width: 15px !important;
+    height: 15px !important;
+    background-color: #4f2b59 !important;
+    border: 3px solid #4f2b59 !important;
+
+}
+/* End */
+
+
+/* Start:/bitrix/templates/stroykas_main/styles.css?15635645111970*/
+
+h2.line, h3.line, h4.line, h5.line, h5.line { border-bottom: 1px #ddd solid; margin-bottom: 20px; padding-bottom: 5px;  font-family: 'light' !important }
+h1, h2, h3, h4, h5, h6 { font-family: "light"; }
+
+body { font-family: "light"; }
+
+b, strong,th { font-family: 'bold'; }
+
+.list_content { list-style: none; margin: 15px 0; }
+.list_content li:before {
+    font-family: "FontAwesome";
+    content:"\f105";
+    padding: 2px 7px 0 0;
+}
+
+
+img.content_img_responsive {}
+
+
+
+.list_content li { line-height: 16pt; margin-bottom: 8px;}
+
+.content_vagno, .content_info , .content_contact {
+	padding: 20px 20px 20px 70px;
+	position: relative;
+/*	border-top: #E9E1E1 2px solid;
+	border-bottom: #E9E1E1 2px solid;*/
+	margin: 20px 0 20px 0;
+    border-radius: 3px;
+    /*font-family: "normal";*/
+}
+
+	.content_vagno:before, .content_info:before, .content_contact:before {
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    /*color: #F17878;*/
+    color: white;
+    font-family: "FontAwesome";
+    font-size: 43px;
+    line-height: 43px;
+    text-shadow: 0 0 4px rgba(0,0,0, 0.08);
+}
+
+	.content_vagno:before {content:"\f06a"; }
+	.content_info:before {content:"\f05a"; }
+	.content_contact:before {content:"\f1d8";  font-size: 38px;  line-height: 38px; }
+
+	.content_vagno{background: #E9B8B8;}
+	.content_info{background: #D5D9E6;}
+	.content_contact{background: #DEE8D8; }
+
+	.content_img_responsive, .content_img_left, .content_img_right { padding: 3px; border: 1px #E2E2E2 solid; }
+
+	.content_img_left, .content_img_right { display: inline-block; }
+	.content_img_left { float: left; margin: 0 15px 5px 0; }
+	.content_img_right { float: right; margin: 0 0 5px 15px; }
+
+
+	.content_img_responsive img{
+		width: 100%;
+		height: auto;
+	}
+
+/*
+
+Важно
+fa-exclamation-circle
+content:"\f06a";
+content:"\f071";
+
+
+Цитата
+content:"\f10d";
+
+Скидки
+content:"\f295";
+
+
+Часы
+content:"\f017";
+*/
+/* End */
+
+
+/* Start:/bitrix/templates/stroykas_main/template_styles.css?15849455271532*/
+/* custom style */
+.modal-body a {
+	color: #333;
+	text-decoration: underline;
+}
+.priem_one:hover, .priem_one.white:hover {
+    background: url("../../../../../templates/stroykas_main/pict/menu_2_item_bg.jpg") top center no-repeat;
+    background-size: cover;
+}
+.main_menu_gorizontal li>a {
+    color: white;
+    font-weight: bold;
+}
+.carousel-indicators .active {
+    background-color: #000 !important;
+    border: 3px solid #000 !important;
+}
+.uslugi_index_one {
+    background: black;
+}
+.uslugi_index_one:hover {
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.2) !important;
+}
+a.catalog_more,
+a.catalog_more:hover {
+    color: white;
+}
+.title_page_main {
+    padding-top: 20px;
+    margin-bottom: 20px;
+	color: black;
+}
+.bx-breadcrumb .bx-breadcrumb-item a {
+    font-weight: bold;
+    color: black;
+}
+.main_menu_gorizontal .nav-pills>li.active>a, .main_menu_gorizontal .nav-pills>li.active>a:hover, .main_menu_gorizontal .nav-pills>li.active>a:focus, .main_menu_gorizontal .nav-pills>li>a.root-item-selected {
+    color: rgba(255, 255, 255, 0.4) !important;
+}
+.content_vagno, .content_info, .content_contact {
+    color: black;
+}
+#searchform_index_vin .btn:hover,
+#vopros_index .btn:hover {
+    color: black!important;
+    background: #ccc;
+}
+.statiya__date {
+    color: #ccc;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+.content_index table {
+    width: 100%;
+}
+.content_index a,
+.content_index a strong {
+    color: white;
+}
+.content_index .btn {
+    border: 1px solid white;
+}
+.link_index_catalog_uslugi a:hover {
+    background: #484848!important;
+}
+/* End */
+/* /bitrix/templates/stroykas_main/components/bitrix/menu/top_mobile/style.css?15635645111662 */
+/* /bitrix/templates/stroykas_main/components/bitrix/menu/top_multi/style.css?15635645113330 */
+/* /bitrix/templates/stroykas_main/components/bitrix/system.pagenavigation/.default/style.css?15635645111171 */
+/* /bitrix/templates/stroykas_main/components/bitrix/news.list/slider/style.css?1563564511600 */
+/* /bitrix/templates/stroykas_main/styles.css?15635645111970 */
+/* /bitrix/templates/stroykas_main/template_styles.css?15849455271532 */

@@ -1,0 +1,64 @@
+.panel_set label.btn {
+    background: rgba(255,255,255, .2);
+    padding: 3px 15px !important;
+    color: white;
+    /*font-size: 14px !important;*/
+}
+
+.panel_set label.btn.active{background: rgba(255,255,255, .35) !important;/* border: 1px solid rgba(255,255,255, .4)*/;}
+
+.panel_set .color .btn { padding: 1px 5px !important; }
+
+.panel_set .btn-checked label.btn {
+    background: none !important;
+    border: none !important;
+}
+
+
+.panel_set h4{margin: 10px 0 10px !important;/* border-bottom: 1px solid rgba(255,255,255, .2); padding-bottom: 5px;*/}
+
+
+.panel_set .btn.checked i.fa {color: rgba(255,255,255, .5);}
+.panel_set .btn.checked.active i.fa {color: rgba(255,255,255, 1);}
+
+
+
+
+.panel_set input[type="radio"] {display: none;}
+
+
+#panel_setup {
+    position: fixed;
+    top: 150px;
+    left: -320px;
+    margin: -40px 0 0 0;
+    overflow: hidden;
+    z-index: 1000000;
+}
+#panel-content {
+    background: rgba(0,0,0, .9);
+    /*border: 1px solid #CCC;*/
+    width: 320px;
+    /*height: 80px;*/
+    float: left;
+    padding: 15px 10px 40px;
+    color: white;
+}
+
+#panel-sticker {
+    float: left;
+    position: relative;
+    background: rgba(0,0,0, .8);
+    padding: 10px 10px 5px;
+    margin: 0;
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+}
+
+.type_header { margin: 15px 0 25px; }
+.type_header a{ color: white;}
+.type_header a:active, .type_header a:focus{ text-decoration: none !important}
+
+
+

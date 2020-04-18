@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <base target="_parent" />
+        <title>map frame</title>
+        <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
+        <link rel="alternate icon" type="image/svg+xml" href="data:;base64,iVBORw0KGgo=" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    </head>
+    <body>
+        <style nonce="">.map-container {position: absolute;top: 0;left: 0;bottom: 0;right: 0;overflow: hidden;}</style>
+        <div class="map-container"></div>
+        <script src="https://api-maps.yandex.ru/2.1.74/?ns=ym&amp;coordorder=longlat&amp;counter_prefix=mapframe&amp;csp=true&amp;csp[version]=2.1&amp;mode=release&amp;lang=ru_RU" type="text/javascript"></script>
+        <script src="/map-widget/v1/app/all.js?v=app" type="text/javascript"></script>
+        <script type="text/javascript">
+            ym.modules
+                .define('mf.hosts', function (provide) {
+                    provide({"maps":"https://yandex.ru/maps/","mapsapi":"https://api-maps.yandex.ru/","widget":"https://api-maps.yandex.ru/services/constructor/","search":"https://api-maps.yandex.ru/services/search/","assetPath":"/map-widget/v1/app/","route":"https://api-maps.yandex.ru/services/route/"});
+                })
+                .define('mf.ua', function (provide) {
+                    provide({"BrowserEngine":"Unknown","BrowserName":"Unknown","OSFamily":"Unknown","isBrowser":false,"isMobile":false,"isTouch":false});
+                })
+                .define('mf.env', function (provide) {
+                    provide({"apiVersion":"2.1.74","tld":"ru","token":"e3b4dd8e26c24cfa5ceec2ba51b71d30","lang":"ru","apiLocale":"ru_RU","yametrika":{"id":[44120344]}});
+                })
+                .define('mf.query', ['mf.util.parseParams'], function (provide, parseParams) {
+                    provide(parseParams('um=constructor%3A4f821186557166740616c0d3f0a9ad57709fb6fc88119981e57d5c07b9b4d31e&source=constructor&rll=35.911896%2C56.859611&center%5B0%5D=35.87094000944687&center%5B1%5D=56.856781761583946&zoom=15'));
+                })
+                .define('mf.preloadedMap', function (provide) {
+                    provide({"ymj":"1.0","maps":[{"properties":{"sid":"constructor:4f821186557166740616c0d3f0a9ad57709fb6fc88119981e57d5c07b9b4d31e","created":1586279454,"updated":1586280002,"access":"public","revision":"8","name":"1 ","description":""},"state":{"size":[350,450],"center":[35.87094000944687,56.856781761583946],"zoom":15,"type":"yandex#map","traffic":{"shown":false}},"geoObjects":{"type":"FeatureCollection","features":[{"type":"Feature","id":"198798754","properties":{"name":"Россия, Тверь, бульвар Ногина, 4к2","description":"","iconContent":"","iconCaption":"Мы находимся здесь"},"geometry":{"type":"Point","coordinates":[35.86975,56.858778]},"options":{"zIndex":800000000,"order":800000000,"preset":"islands#redIcon"}}]}}],"presetStorage":{}});
+                });
+            ym.ready(function () {
+                ym.modules.require(['mf.main']).fail(console.error);
+            }, console.error);
+        </script>
+    </body>
+</html>

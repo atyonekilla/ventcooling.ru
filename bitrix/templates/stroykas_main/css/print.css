@@ -1,0 +1,77 @@
+
+@media print  {
+
+
+  * {
+    color: #000 !important;
+    text-shadow: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    border-color: black !important;
+  }	
+
+#panel_setup,
+#panel,
+.no_print, 
+.navbar,
+.header,
+.footer,
+.bx-breadcrumb,
+.cart_tovar_delete,
+.cart_b,
+.btn,
+.main_menu_gorizontal,
+.title_page_main,
+.map,
+.index_contacts,
+.index_slider,
+ul,
+.default_main_menu,
+.fixed_main_menu
+    { display: none !important; }
+
+  .print { display: block !important; }
+
+
+
+.print .name {
+  width: 40%;
+  float: left;
+  display: inline-block;
+}
+
+.print .print_adres_tel {
+  display: inline-block;
+  text-align: right;
+  width: 60%;
+}
+
+.print .print_adres_tel>div { display: inline-block; text-align: left; }
+
+.print h1{ font-size: 25px; font-family: "normal" }
+
+
+
+.main { display: block !important; }
+img { width: 100px; height: auto; }
+
+.col-md-1 {  width: 8.33333333% !important; float: left !important; }
+.col-md-2 { width: 16.66666667% !important; float: left !important; }
+.col-md-5 { width: 41.66666667% !important; float: left !important;  }
+.col-md-6 { width: 50% !important; float: left !important;  }
+.col-md-8 { width: 66.66666667% !important; float: left !important;  }
+
+.cart_itog { border: none !impotr; }
+
+input { border: none !important; font-size: 18px; font-family: "normal"; }
+
+.hidden-xs { display: block !important; }
+
+a[href^="/"]:after {content: "";}
+    
+#toolbar { display: none !important; }
+
+/*.row { border: none !important; }*/
+
+
+}

@@ -1,0 +1,408 @@
+Uri: https://ventcooling.ru/
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,900
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\css.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/assets/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/assets/css/slick.min.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\css\slick.min.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/assets/css/magnific.pupup.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\css\magnific.pupup.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/assets/css/sweet.alert.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\css\sweet.alert.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/assets/css/slicknav.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\css\slicknav.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/assets/sass/_class.sass
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\sass\_class.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/assets/sass/_common.sass
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\sass\_common.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/assets/css/main.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\css\main.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/style.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\style.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/index.html
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\index.html
+Content Type: text/html
+
+Uri: https://ventcooling.ru/portfolio.html
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\portfolio.html
+Content Type: text/html
+
+Uri: https://ventcooling.ru/assets/img/1fon.jpg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\img\1fon.jpg
+Content Type: image/jpeg
+
+Uri: https://ventcooling.ru/assets/img/proekirovanie.jpg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\img\proekirovanie.jpg
+Content Type: image/jpeg
+
+Uri: https://yandex.ru/map-widget/v1/?um=constructor:4f821186557166740616c0d3f0a9ad57709fb6fc88119981e57d5c07b9b4d31e&source=constructor
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\map-widget\v1\index.htm
+Content Type: text/html
+
+Uri: https://ventcooling.ru/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/vendor/slick.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\vendor\slick.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/vendor/magnific.popup.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\vendor\magnific.popup.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/vendor/ajaxchimp.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\vendor\ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/vendor/sweet.alert.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\vendor\sweet.alert.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/vendor/particle.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\vendor\particle.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/particle.config.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\particle.config.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/vendor/slicknav.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\vendor\slicknav.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/js/active.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\js\active.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/assets/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ventcooling.ru/assets/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ventcooling.ru/assets/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\glyphicons-halflings-regular.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/assets/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\glyphicons-halflings-regular-1.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/assets/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\glyphicons-halflings-regular-2.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/assets/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://ventcooling.ru/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ventcooling.ru/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ventcooling.ru/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\fontawesome-webfont.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\fontawesome-webfont-1.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\fontawesome-webfont-2.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ventcooling.ru/assets/img/ext/pattern-01.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\img\ext\pattern-01.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/assets/img/ext/pattern-02.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\assets\img\ext\pattern-02.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/upload/iblock/29e/29e518f42380552cbcf016899c6a2624.jpg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\upload\iblock\29e\29e518f42380552cbcf016899c6a2624.jpg
+Content Type: image/jpeg
+
+Uri: https://ventcooling.ru/upload/iblock/008/0087635adc85a513db143b85ae6ff71b.jpg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\upload\iblock\008\0087635adc85a513db143b85ae6ff71b.jpg
+Content Type: image/jpeg
+
+Uri: https://ventcooling.ru/upload/iblock/714/olimp.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\upload\iblock\714\olimp.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/upload/iblock/608/zavod.jpg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\upload\iblock\608\zavod.jpg
+Content Type: image/jpeg
+
+Uri: https://ventcooling.ru/upload/iblock/b63/mts.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\upload\iblock\b63\mts.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/bitrix/cache/css/s1/stroykas_main/template_cd69c50bb3b40a8d9cd7f03fa3df5347/template_cd69c50bb3b40a8d9cd7f03fa3df5347_v1.css?158494552911483
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\cache\css\s1\stroykas_main\template_cd69c50bb3b40a8d9cd7f03fa3df5347\template_cd69c50bb3b40a8d9cd7f03fa3df5347_v1.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\ajax\libs\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/main_new.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\main_new.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/print.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\print.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fonts.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fonts.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fonts_icon.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fonts_icon.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/slider.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\slider.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/slider_control.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\slider_control.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/bootstrapValidator.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\bootstrapValidator.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/panel_setup.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\panel_setup.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/slider_content.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\slider_content.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/media.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\media.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/spectrum.css
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\spectrum.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/themes/custom/style.css?t=1586183513.2853
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\themes\custom\style.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/cache/js/s1/stroykas_main/template_604af17dae08f85b0c9ea1b971b0cfc1/template_604af17dae08f85b0c9ea1b971b0cfc1_v1.js?1563564553975
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\cache\js\s1\stroykas_main\template_604af17dae08f85b0c9ea1b971b0cfc1\template_604af17dae08f85b0c9ea1b971b0cfc1_v1.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/js/jquery-1.11.1.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\js\jquery-1.11.1.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/js/jqBootstrapValidation-1.3.7.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\js\jqBootstrapValidation-1.3.7.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/js/bootstrapValidator.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\js\bootstrapValidator.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/js/panel.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\js\panel.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/js/jquery.movingboxes.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\js\jquery.movingboxes.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-153849691-1
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/js/spectrum.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\js\spectrum.js
+Content Type: application/javascript
+
+Uri: https://yandex.ru/map-widget/v1/?um=constructor:03514c768485e6ad3334e27fea9cba31f7f8f5c8d6d511b732b324b75d91574a&source=constructor
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\map-widget\v1\index-1.htm
+Content Type: text/html
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/js/slider.min.js
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\js\slider.min.js
+Content Type: application/javascript
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/pict/menu_2_item_bg.jpg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\pict\menu_2_item_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\css-1.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/fonts/glyphicons-halflings-regular-1.eot
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\fonts\glyphicons-halflings-regular.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\fonts\glyphicons-halflings-regular-1.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\fonts\glyphicons-halflings-regular-2.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700");html{font-family:sans-serif;-ms-text-size-adjust:100%25;-webkit-text-size-adjust:100%25}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:0.67em 0}mark{background:
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\css-2.css
+Content Type: text/css
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/pict/menu_test2.jpg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\pict\menu_test2.jpg
+Content Type: image/jpeg
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/pict/slider_left.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\pict\slider_left.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/pict/slider_right.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\pict\slider_right.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/pict/menu_2_bg.jpg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\pict\menu_2_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontfabric - mullerlight.otf
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontfabric - mullerlight.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontfabric - mullermedium.otf
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontfabric - mullermedium.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontfabric - mullerbold.otf
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontfabric - mullerbold.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontfabric - mullerextrabold.otf
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontfabric - mullerextrabold.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontello.eot
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontello.woff2
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontello.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontello.woff
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontello-1.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontello.ttf
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontello-2.txt
+Content Type: text/plain
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/fonts/fontello.svg
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\fonts\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/pict/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\pict\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/pict/prev_black.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\pict\prev_black.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/pict/next_black.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\pict\next_black.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/pict/slider_left_black.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\pict\slider_left_black.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/pict/slider_right_black.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\pict\slider_right_black.png
+Content Type: image/png
+
+Uri: https://ventcooling.ru/bitrix/templates/stroykas_main/css/pict/logo.png
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\bitrix\templates\stroykas_main\css\pict\logo.png
+Content Type: image/png
+
+Uri: https://mc.yandex.ru/watch/54795181/1
+File Name: C:\Downloaded Web Sites\sigarety final\ventcooling.ru\watch\54795181\1.gif
+Content Type: image/gif
+

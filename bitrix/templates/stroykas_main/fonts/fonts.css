@@ -1,0 +1,19 @@
+@font-face {
+font-family: 'light';
+src: url("fontfabric - mullerlight.odft") format("opentype");
+}
+
+@font-face {
+font-family: 'normal';
+src: url("fontfabric - mullermedium.odft") format("opentype");
+}
+
+@font-face {
+font-family: 'bold';
+src: url("fontfabric - mullerbold.odft") format("opentype");
+}
+
+@font-face {
+font-family: 'back';
+src: url("fontfabric - mullerextrabold.odft") format("opentype");
+}
